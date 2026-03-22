@@ -3,6 +3,7 @@ Manual question paper creation often leads to uneven difficulty, poor marks dist
 
 🚀 Features in Project 
 -> Automated question paper generation 
+
 -> Balanced difficulty distribution (Easy/Medium/Hard) 
 -> Optimal marks allocation using 0/1 Knapsack algorithm 
 -> No repetition of questions 
