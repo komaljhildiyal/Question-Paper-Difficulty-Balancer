@@ -1,6 +1,7 @@
 # Question-Paper-Difficulty-Balancer
 Manual question paper creation often leads to uneven difficulty, poor marks distribution, repetition, and lack of topic balance. This project automates paper generation using algorithms to ensure balanced difficulty, fixed marks, no repetition, and fair topic coverage efficiently.
 
+
 🚀 Features in Project 
 
 -> Automated question paper generation 
@@ -18,9 +19,16 @@ Manual question paper creation often leads to uneven difficulty, poor marks dist
 
 
 🛠️ Tech Stack
+
 Language: Java
+
 Concepts Used:
+
 -> Greedy Approach
+
 -> Dynamic Programming
+
 -> Knapsack Algorithm
+
 -> File Handling (CSV)
+
